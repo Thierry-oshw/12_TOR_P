@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Chimere_AO4407A
+# Chimere_comps_AO4407A
 #
-DEF Chimere_AO4407A Q 0 40 N N 1 F N
+DEF Chimere_comps_AO4407A Q 0 40 N N 1 F N
 F0 "Q" -350 150 50 H V L BNN
-F1 "Chimere_AO4407A" -350 -250 50 H V L BNN
+F1 "Chimere_comps_AO4407A" -350 -250 50 H V L BNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 0 0 50 H I L BNN
 F3 "" 0 0 50 H I L BNN
 F4 "Alpha & Omega Semiconductor" 0 0 50 H I L BNN "MANUFACTURER"
